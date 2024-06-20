@@ -4,7 +4,7 @@
 This project provides a comparison of various sorting algorithms. The implementation includes a LaTeX table showcasing the performance of different sorting algorithms. Additionally, each sorting algorithm is implemented separately for clearer understanding and testing purposes.
 
 ## Instructions for Testing
-To test the program, run one of the sorting algorithm implementations provided in this repository. Each implementation file contains a specific sorting algorithm that can be executed independently.
+To test the program, run one of the sorting algorithm implementations provided in this repository (implementation_part2.c for example). The files with each algorithm are only included to make sure the algorithms are easier to access after the recommendations of the reviewers.
 
 ## Sorting Algorithms Included
 1.**Insertion Sort**
